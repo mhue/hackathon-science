@@ -1,0 +1,12 @@
+# Alpha Evolve Requirements
+# Core dependencies for evolutionary prompt optimization
+
+# No external dependencies required - uses only Python standard library
+# Python 3.7+ recommended
+
+# Optional dependencies for enhanced functionality:
+# numpy>=1.20.0  # For advanced statistical operations
+matplotlib>=3.3.0  # For visualization of evolution progress
+pillow>=8.0.0  # For GIF animation creation
+# pandas>=1.2.0  # For data analysis of results
+

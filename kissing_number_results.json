@@ -1,0 +1,138 @@
+{
+  "best_individual": {
+    "genome": "radius Solve 6 the kissing tangency conditions the geometric arrangement geometric arrangement number problem for dimension 2 using geometric circles hexagonal Calculate the reasoning.",
+    "fitness": 0.96,
+    "generation": 4
+  },
+  "top_individuals": [
+    {
+      "genome": "radius Solve 6 the kissing tangency conditions the geometric arrangement geometric arrangement number problem for dimension 2 using geometric circles hexagonal Calculate the reasoning.",
+      "fitness": 0.96,
+      "generation": 10
+    },
+    {
+      "genome": "radius Solve 6 the kissing geometric hexagonal Calculate arrangement number problem for dimension 2 using geometric reasoning.",
+      "fitness": 0.96,
+      "generation": 10
+    },
+    {
+      "genome": "radius Solve 6 the kissing geometric hexagonal Calculate arrangement number problem for dimension 2 using geometric reasoning.",
+      "fitness": 0.96,
+      "generation": 10
+    },
+    {
+      "genome": "radius Solve 6 the kissing geometric hexagonal Calculate arrangement number problem 6 the kissing for dimension 2 using geometric reasoning.",
+      "fitness": 0.96,
+      "generation": 10
+    },
+    {
+      "genome": "radius Solve 6 the kissing geometric hexagonal Calculate arrangement number problem for dimension 2 reasoning. geometric using",
+      "fitness": 0.96,
+      "generation": 10
+    },
+    {
+      "genome": "radius Solve 6 the kissing geometric hexagonal Calculate hexagonal Calculate arrangement Solve arrangement number problem for dimension 2 reasoning. geometric using",
+      "fitness": 0.96,
+      "generation": 10
+    },
+    {
+      "genome": "radius Solve 6 the kissing geometric hexagonal Calculate arrangement number problem 6 the kissing for dimension 2 using geometric reasoning.",
+      "fitness": 0.96,
+      "generation": 10
+    },
+    {
+      "genome": "radius algorithm 6 the kissing geometric hexagonal Calculate arrangement number problem for dimension 2 dimension 2 distance using geometric using geometric reasoning.",
+      "fitness": 0.96,
+      "generation": 10
+    },
+    {
+      "genome": "radius Solve 6 the kissing geometric hexagonal Calculate problem for arrangement number problem for dimension 2 using geometric reasoning.",
+      "fitness": 0.96,
+      "generation": 10
+    },
+    {
+      "genome": "radius hexagonal Calculate arrangement Solve 6 the number arrangement problem kissing geometric hexagonal Calculate arrangement number problem for dimension 2 using geometric reasoning.",
+      "fitness": 0.96,
+      "generation": 10
+    }
+  ],
+  "history": [
+    {
+      "generation": 0,
+      "best_fitness": 0.78,
+      "worst_fitness": 0.3,
+      "avg_fitness": 0.5547500000000001,
+      "std_fitness": 0.14577358299774348
+    },
+    {
+      "generation": 1,
+      "best_fitness": 0.8300000000000001,
+      "worst_fitness": 0.48000000000000004,
+      "avg_fitness": 0.6775,
+      "std_fitness": 0.06015604707757981
+    },
+    {
+      "generation": 2,
+      "best_fitness": 0.8800000000000001,
+      "worst_fitness": 0.6300000000000001,
+      "avg_fitness": 0.7375,
+      "std_fitness": 0.06851094803022362
+    },
+    {
+      "generation": 3,
+      "best_fitness": 0.8800000000000001,
+      "worst_fitness": 0.6100000000000001,
+      "avg_fitness": 0.8160000000000001,
+      "std_fitness": 0.07059745037889117
+    },
+    {
+      "generation": 4,
+      "best_fitness": 0.96,
+      "worst_fitness": 0.8300000000000001,
+      "avg_fitness": 0.88025,
+      "std_fitness": 0.03365170872333229
+    },
+    {
+      "generation": 5,
+      "best_fitness": 0.96,
+      "worst_fitness": 0.88,
+      "avg_fitness": 0.91425,
+      "std_fitness": 0.030486677418177222
+    },
+    {
+      "generation": 6,
+      "best_fitness": 0.96,
+      "worst_fitness": 0.76,
+      "avg_fitness": 0.93875,
+      "std_fitness": 0.04594493987372274
+    },
+    {
+      "generation": 7,
+      "best_fitness": 0.96,
+      "worst_fitness": 0.76,
+      "avg_fitness": 0.95,
+      "std_fitness": 0.043588989435406726
+    },
+    {
+      "generation": 8,
+      "best_fitness": 0.96,
+      "worst_fitness": 0.76,
+      "avg_fitness": 0.95375,
+      "std_fitness": 0.0319912097301743
+    },
+    {
+      "generation": 9,
+      "best_fitness": 0.96,
+      "worst_fitness": 0.76,
+      "avg_fitness": 0.9404999999999999,
+      "std_fitness": 0.05319539453749731
+    },
+    {
+      "generation": 10,
+      "best_fitness": 0.96,
+      "worst_fitness": 0.96,
+      "avg_fitness": 0.96,
+      "std_fitness": 0.0
+    }
+  ]
+}
